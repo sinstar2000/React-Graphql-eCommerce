@@ -1,8 +1,6 @@
 # E-commerce Apparel Store feat. React & GraphQL
 
-#### Author: Jarid Warren [ <jaridwarren@gmail.com> ]
-
-A sample e-commerce store, 'Sick Fits', that allows users to sign-up, add/edit/remove items to the store, and even check-out items with a (test-mode) credit card purchase. 
+A sample e-commerce store, 'Sick Fits', that allows users to sign-up, add/edit/remove items to the store, and even check-out items with a (test-mode) credit card purchase.
 
 <img height="400" src="./readme-images/intro.gif">
 
